@@ -13,4 +13,8 @@
 
 ![image](https://user-images.githubusercontent.com/81583805/121937570-042f2b80-cd75-11eb-8570-eac4a2df996e.png)
 
+3. contoh penampilan error
 
+![image](https://user-images.githubusercontent.com/81583805/121938365-edd59f80-cd75-11eb-8b6c-c97f3698c4bd.png)
+
+![image](https://user-images.githubusercontent.com/81583805/121938180-ae0eb800-cd75-11eb-8a05-51425c1a9ba7.png)
